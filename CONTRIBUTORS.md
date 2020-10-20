@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Rida Ayaz](https://github.com/ridaayaz)
+- Place: Islamabad,Pakistan
+- Bio: Bs Software Engineering student
+- GitHub: [Rida Ayaz](https://github.com/ridaayaz)
